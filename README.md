@@ -26,3 +26,5 @@ In this case, I depend on the *react plugin* and the rule for the quoting style 
 
 ## Expected results
 The tool should return an error on line 4 of *example.js* stating that "Strings must use doublequote"
+
+![ExpetectedResult](https://user-images.githubusercontent.com/13315199/46303389-967e4980-c5a3-11e8-9f60-4b251659b82a.png)
